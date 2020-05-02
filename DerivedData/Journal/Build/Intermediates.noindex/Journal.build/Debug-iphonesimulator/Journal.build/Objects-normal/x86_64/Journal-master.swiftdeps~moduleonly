@@ -1,9 +1,0 @@
-version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
-options: "9a51bdef2911fc193248d3962d7989ac"
-build_time: [1588392420, 462810000]
-inputs:
-  "/Users/jeetdholakia/Workspaces/iOS Workspace/Core Location Journal/Journal finished/Journal/AppDelegate.swift": [1533155518, 0]
-  "/Users/jeetdholakia/Workspaces/iOS Workspace/Core Location Journal/Journal finished/Journal/MapViewController.swift": [1533148861, 0]
-  "/Users/jeetdholakia/Workspaces/iOS Workspace/Core Location Journal/Journal finished/Journal/Location.swift": [1533148861, 0]
-  "/Users/jeetdholakia/Workspaces/iOS Workspace/Core Location Journal/Journal finished/Journal/LocationsStorage.swift": [1533313688, 0]
-  "/Users/jeetdholakia/Workspaces/iOS Workspace/Core Location Journal/Journal finished/Journal/PlacesTableViewController.swift": [1533148861, 0]
